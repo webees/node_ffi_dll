@@ -1,2 +1,2 @@
 # node_ffi_dll
-node-ffi *.dll example
+Example of calling dll file by node-ffi.
