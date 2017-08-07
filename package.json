@@ -1,0 +1,11 @@
+{
+  "name": "node_ffi_dll",
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "devDependencies": {
+    "ffi": "^2.2.0"
+  }
+}
